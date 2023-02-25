@@ -1,0 +1,16 @@
+.content {
+  width: 700px;
+  padding: 16px;
+}
+
+.project-item {
+  border-bottom: solid 1px red;
+  border-radius: 0px 0px 3px 3px;
+}
+
+.project-item div {
+  padding: 12px;
+  border-bottom: solid 1px #eee;
+  border-radius: 0px 0px 3px 3px;
+  cursor: pointer;
+}
